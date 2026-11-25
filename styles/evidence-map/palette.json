@@ -1,0 +1,10 @@
+{
+  "initial_state": "#2F5D7E",
+  "confirmation": "#2A9D8F",
+  "passive_observation": "#7D8992",
+  "exceptional_change": "#D86455",
+  "marked_revision": "#D4A72C",
+  "downstream_outcome": "#7566A8",
+  "neutral": "#EAF0F3",
+  "text": "#263238"
+}
